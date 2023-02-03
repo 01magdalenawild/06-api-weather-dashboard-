@@ -6,15 +6,15 @@ A weather dashboard that runs in the browser and pulls 5 days of weather for whe
 * Curret temperature, humidity , wind index, and current uv
 * 5 day forcast with dates, weather icons, and humidity 
 
-##Visuals
+## Visuals
 
-##Features 
+## Features 
 *HTML
 CSS
 BOOTSTRAP
 THIRD PARTY API
 
-##LINKS
+## LINKS
 * [repo] https://github.com/01magdalenawild/06-api-weather-dashboard-
 * [deployed website]  https://01magdalenawild.github.io/06-api-weather-dashboard-/
 
